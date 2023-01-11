@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Home
+title: Birds
 ---
 
-## Welcome everyone to my site for birds!
+## Welcome to my site for birds!
+##### THE FACT THAT the raccoons are now banging an empty yoghurt carton around on the driveway
 
 
 #### Here are some example bird pages:
