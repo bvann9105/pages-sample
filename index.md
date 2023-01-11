@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my site!
+## Welcome everyone to my site for birds!
 
 
-#### Here are some example pages:
+#### Here are some example bird pages:
 
-- [Markdown](02-markdown-examples)
+- [birds](02-markdown-examples)
 - [feathers](03-images-examples)
 - [beaks](04-embeds-examples)
