@@ -1,5 +1,5 @@
 ---
-layout: defualt
+layout: home
 title: Birds
 ---
 
