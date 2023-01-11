@@ -8,6 +8,6 @@ title: Home
 
 #### Here are some example pages:
 
-- [birds](02-markdown-examples)
+- [Markdown](02-markdown-examples)
 - [feathers](03-images-examples)
 - [beaks](04-embeds-examples)
